@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://realtormedfordoregon.com/sitemap.xml
